@@ -1,0 +1,3 @@
+[package]
+name = "yaz"
+edition = "2024"
